@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F0EC64F-2AE4-494A-8DE5-C253A1202A00"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0749F502-6B7B-4802-A3D4-D67E84381A4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dogger App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA143B1D-9EF7-49BC-8484-3F36BECB6462"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dogger App/Controller/HorizantalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "HorizantalViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA143B1D-9EF7-49BC-8484-3F36BECB6462 - 8b0f223229bb6de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Affirmation_App.HorizantalViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Affirmation_App.HorizantalViewController"
+                  moduleName = "Affirmation App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurmukhanbet/Desktop/iOS%20Dev/Native%20Mobile%20Development/Affirmation%20App/Dogger%20App/Controller/HorizantalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "FA143B1D-9EF7-49BC-8484-3F36BECB6462 - af583094c0c4fdbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Affirmation_App.HorizantalViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Affirmation_App.HorizantalViewController&gt;"
+                  moduleName = "Affirmation App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurmukhanbet/Desktop/iOS%20Dev/Native%20Mobile%20Development/Affirmation%20App/Dogger%20App/Controller/HorizantalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
